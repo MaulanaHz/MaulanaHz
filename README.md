@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Maulana  👨‍💻 </h1>
 
 <p align='center'>
-  I live on Banda Aceh, Indonesian
+  I live in Jambi, Indonesian
 </p>
 
 <p align='center'>
